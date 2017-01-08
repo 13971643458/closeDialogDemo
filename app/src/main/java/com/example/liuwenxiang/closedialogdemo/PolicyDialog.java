@@ -14,10 +14,6 @@ import android.view.Window;
 import android.widget.Button;
 import android.widget.TextView;
 
-
-/**
- * Created by fuchenming on 16/11/24.
- */
 public class PolicyDialog extends Dialog {
 
 
