@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyDialog</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="get_immediately">免费领取</string>
+    <string name="not_tips">不再提示</string>
+
+    <string name="show_diglog">显示弹出框！</string>
+
+
+    <string name="btitle">银行名称</string>
+    <string name="signature">福利</string>
+    <string name="startStr">尊敬的用户，您好:</string>
+    <string name="content">为了感谢您对我行的信任和支持，我们赠送您一份价值100万，为期一年的账号资金安全险，该保险保障您直销电子账号资金安全。</string>
+
+</resources>
